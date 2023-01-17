@@ -1,5 +1,7 @@
 ### Hi there 👋
 
-My name is Michał, and I am a 30 something father, husband, and software engineer living in Kraków, Poland. I'm not on Twitter, Instagram nor TikTok. I have an account on Facebook, but I don't use it. 
+This is my work account, I don't use GitHub for personal projects.
 
 You can find me at https://michal.sapka.me
+Reasoning: https://michal.sapka.me/2023/i-now-host-my-own-code/
+Code: https://git.sapka.me
